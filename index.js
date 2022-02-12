@@ -74,3 +74,7 @@ img.onload = function () {
 }
 img.src = "http://www.lovelive-anime.jp/otonokizaka/img/member/member09_04.png";
 document.body.appendChild(img);
+
+const jumpURL = function () {
+    window.open('https://qiita.com/masayasviel/items/433875e2bc78f9b28567');
+}
